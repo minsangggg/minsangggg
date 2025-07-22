@@ -1,25 +1,23 @@
 ## Hi there 👋
 
-<!--
-**minsangggg/minsangggg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+
 
 - 🔭 I’m currently working on ...
+
+
+
+  
 - 🌱 I’m currently learning ...
+
 - 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-### 👋 데이터로 세상을 연결하고 싶은 예비 Data Analyst입니다.
-> SQL과 머신러닝을 기반으로 실제 데이터를 분석하고, 서비스를 기획·구현하며 성장 중입니다.
 
-🚀 **진행 중인 프로젝트**
 
-- 🏘️ [**부동산 매물 분석 및 추천 서비스**](https://github.com/minsangggg/real-estate-recommend)  
+
+
+ **진행 중인 프로젝트**
+
+- 🏘️ [**부동산 매물 분석 및 추천 서비스**](https://www.figma.com/proto/GEXeHYcYXLw0SnsmNfYfH2/project-1?node-id=18-8&p=f&t=emv8nWgWPmIibR7z-1&scaling=scale-down&content-scaling=fixed&page-id=0%3A1&starting-point-node-id=18%3A8&show-proto-sidebar=1) or (https://telkem.github.io/project_1st/)
   → *사용자 니즈 기반의 필터링 UI를 갖춘 프론트엔드 설계 및 개발*
 
 - 🛍️ [**고객 구매 데이터 기반 성별 예측 모델링**](https://github.com/minsangggg/gender-prediction-ml)  
