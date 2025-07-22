@@ -1,8 +1,6 @@
 ##  프론트엔드부터 데이터 분석, 모델링, 머신러닝까지
-
 ---
-
-###  I'm Currently Working On
+###  I'm Currently Working On...
 
 #### 🏘️ [**부동산 매물 분석 및 추천 서비스**](https://telkem.github.io/project_1st/)
 - [📐 Figma 프로토타입](https://www.figma.com/proto/GEXeHYcYXLw0SnsmNfYfH2/project-1?node-id=18-8&p=f&t=emv8nWgWPmIibR7z-1&scaling=scale-down&content-scaling=fixed&page-id=0%3A1&starting-point-node-id=18%3A8&show-proto-sidebar=1)
@@ -19,7 +17,7 @@
 
 ---
 
-### 📚 I’m Currently Learning
+###  I’m Currently Learning...
 
 - 피처 스케일링 (StandardScaler, MinMaxScaler)
 - 범주형 변수 인코딩 (One-Hot, LabelEncoder)
