@@ -10,10 +10,10 @@
 - → *SQL JOIN을 통한 전처리, 로지스틱 회귀·랜덤포레스트 기반 분류 + 하이퍼파라미터 튜닝*
 
 #### 💳 [**신용카드 부정거래 탐지 모델링**]
-.([https://github.com/minsangggg/Machine_Running-Ai-/tree/main/Study](https://github.com/minsangggg/hipython_rep/tree/main/%EB%B6%84%EB%A5%98%EC%98%88%EC%B8%A1%EB%AA%A8%EB%8D%B8_%EB%A8%B8%EC%8B%A0%EB%9F%AC%EB%8B%9D)
+(https://github.com/minsangggg/Machine_Running-Ai-/tree/main/Study)
 - → *XGBoost, RandomForest 활용 이상 거래 탐지 + SHAP 기반 모델 해석 및 시각화*
 
-#### 🚲 [**자전거 대여 수요 예측 모델링**]([https://github.com/minsangggg/bike-demand-prediction](https://github.com/minsangggg/Machine_Running-Ai-/blob/main/Study/15.%EC%9E%90%EC%A0%84%EA%B1%B0%EB%8C%80%EC%97%AC%EB%9F%89%20%EC%98%88%EC%B8%A1%EB%AA%A8%EB%8D%B8.ipynb)
+#### 🚲 [**자전거 대여 수요 예측 모델링**](https://github.com/minsangggg/Machine_Running-Ai-/blob/main/Study/15.%EC%9E%90%EC%A0%84%EA%B1%B0%EB%8C%80%EC%97%AC%EB%9F%89%20%EC%98%88%EC%B8%A1%EB%AA%A8%EB%8D%B8.ipynb)
 - → *다항 회귀 기반 수요 예측 + GridSearchCV를 통한 성능 최적화 및 시각화*
 
 ---
