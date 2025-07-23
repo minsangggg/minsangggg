@@ -10,7 +10,7 @@
 - → *SQL JOIN을 통한 전처리, 로지스틱 회귀·랜덤포레스트 기반 분류 + 하이퍼파라미터 튜닝*
 
 #### 💳 [**신용카드 부정거래 탐지 모델링**]
-(https://github.com/minsangggg/Machine_Running-Ai-/tree/main/Study))
+.(https://github.com/minsangggg/Machine_Running-Ai-/tree/main/Study))
 - → *XGBoost, RandomForest 활용 이상 거래 탐지 + SHAP 기반 모델 해석 및 시각화*
 
 #### 🚲 [**자전거 대여 수요 예측 모델링**](https://github.com/minsangggg/bike-demand-prediction)
