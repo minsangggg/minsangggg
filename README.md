@@ -13,7 +13,8 @@
 - → *RandomForest, GBTClassifier를 사용하여 퇴사 여부를 예측하는 Spark 머신러닝 모델입니다.*
 
 #### 🚲 [**자전거 대여 수요 예측 모델링**](https://github.com/minsangggg/Machine_Running-Ai-/blob/main/Study/15.%EC%9E%90%EC%A0%84%EA%B1%B0%EB%8C%80%EC%97%AC%EB%9F%89%20%EC%98%88%EC%B8%A1%EB%AA%A8%EB%8D%B8.ipynb)
-- → *다항 회귀 기반 수요 예측 + GridSearchCV를 통한 성능 최적화 및 시각화*
+- → *RandomForest, GradientBoosting, LGBM, XGBoosting
+ + GridSearchCV를 통한 성능 최적화 및 시각화*
 
 ---
 
