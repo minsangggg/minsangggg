@@ -3,7 +3,7 @@
 ###  I'm Currently Working On...
 
 #### 🏘️ [**부동산 매물 분석 및 추천 서비스**](https://telkem.github.io/project_1st/)
-- [ Figma 프로토타입](https://www.figma.com/proto/GEXeHYcYXLw0SnsmNfYfH2/project-1?node-id=18-8&p=f&t=emv8nWgWPmIibR7z-1&scaling=scale-down&content-scaling=fixed&page-id=0%3A1&starting-point-node-id=18%3A8&show-proto-sidebar=1)
+- [ Figma 프로토타입](https://www.figma.com/proto/LvYOllXAS1JcqlT6f1ODB4/2%EC%B0%A8-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8-%ED%94%84%EB%A1%9C%ED%86%A0%ED%83%80%EC%9E%85?node-id=4-3&t=tRrX9b6JnWKh9wfv-0&scaling=scale-down&content-scaling=fixed&page-id=0%3A1&starting-point-node-id=4%3A3)
 - → *사용자 니즈 기반의 필터링 UI를 갖춘 프론트엔드 설계 및 개발*
 
 #### 🛍️ [**고객 구매 데이터 기반 성별 예측 모델링**](https://github.com/minsangggg/hipython_rep/tree/main/%EB%B6%84%EB%A5%98%EC%98%88%EC%B8%A1%EB%AA%A8%EB%8D%B8_%EB%A8%B8%EC%8B%A0%EB%9F%AC%EB%8B%9D)
