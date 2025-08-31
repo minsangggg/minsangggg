@@ -15,7 +15,7 @@
 #### 🚲 [**자전거 대여 수요 예측 모델링**](https://github.com/minsangggg/Machine_Running-Ai-/blob/main/Study/15.%EC%9E%90%EC%A0%84%EA%B1%B0%EB%8C%80%EC%97%AC%EB%9F%89%20%EC%98%88%EC%B8%A1%EB%AA%A8%EB%8D%B8.ipynb)
 -  *RandomForest, GradientBoosting, LGBM, XGBoosting + GridSearchCV를 통한 성능 최적화 및 시각화*
 
-#### 💳 [**신용카드 부정거래 탐지 모델링**](https://github.com/minsangggg/hipython_rep/blob/main/분류예측모델_신용카드%20부정거래.ipynb)
+#### 💳 [**신용카드 부정거래 탐지 모델링**](https://github.com/minsangggg/Machine_Running-Ai-/blob/main/%EB%B6%84%EB%A5%98%EC%98%88%EC%B8%A1%EB%AA%A8%EB%8D%B8/%EB%B6%84%EB%A5%98%EC%98%88%EC%B8%A1%EB%AA%A8%EB%8D%B8_%EC%8B%A0%EC%9A%A9%EC%B9%B4%EB%93%9C%20%EB%B6%80%EC%A0%95%EA%B1%B0%EB%9E%98.ipynb)
 -  *EDA와 불균형 데이터 처리(SMOTE), 로지스틱 회귀, lgbm, 랜덤포레스트 기반 분류 모델 구축 + 성능평가(AUC, 혼동행렬)*
 
 ---
