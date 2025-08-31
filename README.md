@@ -4,16 +4,16 @@
 
 #### 🏘️ [**부동산 매물 분석 및 추천 서비스**](https://telkem.github.io/project_1st/)
 - [ Figma 프로토타입](https://www.figma.com/proto/LvYOllXAS1JcqlT6f1ODB4/2%EC%B0%A8-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8-%ED%94%84%EB%A1%9C%ED%86%A0%ED%83%80%EC%9E%85?node-id=4-3&t=tRrX9b6JnWKh9wfv-0&scaling=scale-down&content-scaling=fixed&page-id=0%3A1&starting-point-node-id=4%3A3)
-- → *사용자 니즈 기반의 필터링 UI를 갖춘 프론트엔드 설계, 크롤링, DB적재, 서버개발(FastAPI,Playwright), LLM개발*
+-  *사용자 니즈 기반의 필터링 UI를 갖춘 프론트엔드 설계, 크롤링, DB적재, 서버개발(FastAPI,Playwright), LLM개발*
 
 #### 🛍️ [**고객 구매 데이터 기반 성별 예측 모델링**](https://github.com/minsangggg/hipython_rep/tree/main/%EB%B6%84%EB%A5%98%EC%98%88%EC%B8%A1%EB%AA%A8%EB%8D%B8_%EB%A8%B8%EC%8B%A0%EB%9F%AC%EB%8B%9D)
-- → *SQL JOIN을 통한 전처리, 로지스틱 회귀·랜덤포레스트 기반 분류 + 하이퍼파라미터 튜닝*
+-  *SQL JOIN을 통한 전처리, 로지스틱 회귀·랜덤포레스트 기반 분류 + 하이퍼파라미터 튜닝*
 
 #### 💳 [**직원 퇴사 예측 모델링**](https://github.com/minsangggg/Spark/blob/main/workspace/09_%EC%A7%81%EC%9B%90%20%ED%87%B4%EC%82%AC%20%EC%98%88%EC%B8%A1%20%EB%AA%A8%EB%8D%B8%20%EA%B5%AC%ED%98%84.ipynb)
-- → *RandomForest, GBTClassifier를 사용하여 퇴사 여부를 예측하는 Spark 머신러닝 모델입니다.*
+-  *RandomForest, GBTClassifier를 사용하여 퇴사 여부를 예측하는 Spark 머신러닝 모델입니다.*
 
 #### 🚲 [**자전거 대여 수요 예측 모델링**](https://github.com/minsangggg/Machine_Running-Ai-/blob/main/Study/15.%EC%9E%90%EC%A0%84%EA%B1%B0%EB%8C%80%EC%97%AC%EB%9F%89%20%EC%98%88%EC%B8%A1%EB%AA%A8%EB%8D%B8.ipynb)
-- → *RandomForest, GradientBoosting, LGBM, XGBoosting + GridSearchCV를 통한 성능 최적화 및 시각화*
+-  *RandomForest, GradientBoosting, LGBM, XGBoosting + GridSearchCV를 통한 성능 최적화 및 시각화*
 
 ---
 
