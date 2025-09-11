@@ -20,11 +20,12 @@
 
 ---
 
-###  I’m Currently Learning...
+###  I’m Currently Studying...
 
-- 피처 스케일링 (StandardScaler, MinMaxScaler)
-- 범주형 변수 인코딩 (One-Hot, LabelEncoder)
-- 앙상블 학습 (Voting, Bagging, Boosting)
+- Rag Pipeline 구축 
+- 벡터스토어를 이용한 임베딩 
+- Langchain(랭체인)
+- Pinecone
 - 분류 모델 평가 (정확도, 정밀도, 재현율, F1, ROC-AUC)
 - 분석 인사이트 도출 및 시각화 전략
 
