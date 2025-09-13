@@ -18,6 +18,13 @@
 #### 💳 [**신용카드 부정거래 탐지 모델링**](https://github.com/minsangggg/Machine_Running-Ai-/blob/main/%EB%B6%84%EB%A5%98%EC%98%88%EC%B8%A1%EB%AA%A8%EB%8D%B8/%EB%B6%84%EB%A5%98%EC%98%88%EC%B8%A1%EB%AA%A8%EB%8D%B8_%EC%8B%A0%EC%9A%A9%EC%B9%B4%EB%93%9C%20%EB%B6%80%EC%A0%95%EA%B1%B0%EB%9E%98.ipynb)
 -  *EDA와 불균형 데이터 처리(SMOTE), 로지스틱 회귀, lgbm, 랜덤포레스트 기반 분류 모델 구축 + 성능평가(AUC, 혼동행렬)*
 
+#### 🔗 [**와인 이미지 기반 랭체인 프롬프트 엔지니어링**](https://github.com/minsangggg/Machine_Running-Ai-/blob/main/LLM/22.%EC%99%80%EC%9D%B8%EC%9D%B4%EB%AF%B8%EC%A7%80_%EB%9E%AD%EC%B2%B4%EC%9D%B8%ED%94%84%EB%A1%AC%ED%94%84%ED%8A%B8.ipynb)
+- *LangChain 프롬프트 템플릿을 활용한 와인 이미지 설명 생성 및 감각적 특징 분석*
+- *LLM 기반 멀티모달 입력 처리(텍스트+이미지) → 와인 추천 및 풍미 분석*
+- *체인 구성 및 프롬프트 설계 과정을 통해 사용자 맞춤형 응답 최적화 실험*
+
+
+
 ---
 
 ###  I’m Currently Studying...
