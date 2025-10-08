@@ -6,16 +6,16 @@
 - [ Figma 프로토타입](https://www.figma.com/proto/LvYOllXAS1JcqlT6f1ODB4/2%EC%B0%A8-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8-%ED%94%84%EB%A1%9C%ED%86%A0%ED%83%80%EC%9E%85?node-id=4-3&t=tRrX9b6JnWKh9wfv-0&scaling=scale-down&content-scaling=fixed&page-id=0%3A1&starting-point-node-id=4%3A3)
 -  *사용자 니즈 기반의 필터링 UI를 갖춘 프론트엔드 설계, 크롤링, DB적재, 서버개발(FastAPI,Playwright), LLM개발*
 
-#### 🛍️ [**고객 구매 데이터 기반 성별 예측 모델링**](https://github.com/minsangggg/hipython_rep/tree/main/%EB%B6%84%EB%A5%98%EC%98%88%EC%B8%A1%EB%AA%A8%EB%8D%B8_%EB%A8%B8%EC%8B%A0%EB%9F%AC%EB%8B%9D)
+#### 🛍️ [**고객 구매 데이터 기반 성별 예측 분석 및 모델링**](https://github.com/minsangggg/hipython_rep/tree/main/%EB%B6%84%EB%A5%98%EC%98%88%EC%B8%A1%EB%AA%A8%EB%8D%B8_%EB%A8%B8%EC%8B%A0%EB%9F%AC%EB%8B%9D)
 -  *SQL JOIN을 통한 전처리, 로지스틱 회귀·랜덤포레스트 기반 분류 + 하이퍼파라미터 튜닝*
 
-#### 🧑‍💼 [**직원 퇴사 예측 모델링**](https://github.com/minsangggg/Spark/blob/main/workspace/09_%EC%A7%81%EC%9B%90%20%ED%87%B4%EC%82%AC%20%EC%98%88%EC%B8%A1%20%EB%AA%A8%EB%8D%B8%20%EA%B5%AC%ED%98%84.ipynb)
+#### 🧑‍💼 [**직원 퇴사 예측 분석 및 모델링**](https://github.com/minsangggg/Spark/blob/main/workspace/09_%EC%A7%81%EC%9B%90%20%ED%87%B4%EC%82%AC%20%EC%98%88%EC%B8%A1%20%EB%AA%A8%EB%8D%B8%20%EA%B5%AC%ED%98%84.ipynb)
 -  *RandomForest, GBTClassifier를 사용하여 퇴사 여부를 예측하는 Spark 머신러닝 모델입니다.*
 
-#### 🚲 [**자전거 대여 수요 예측 모델링**](https://github.com/minsangggg/Machine_Running-Ai-/blob/main/Study/15.%EC%9E%90%EC%A0%84%EA%B1%B0%EB%8C%80%EC%97%AC%EB%9F%89%20%EC%98%88%EC%B8%A1%EB%AA%A8%EB%8D%B8.ipynb)
+#### 🚲 [**자전거 대여 수요 예측 분석 및 모델링**](https://github.com/minsangggg/Machine_Running-Ai-/blob/main/Study/15.%EC%9E%90%EC%A0%84%EA%B1%B0%EB%8C%80%EC%97%AC%EB%9F%89%20%EC%98%88%EC%B8%A1%EB%AA%A8%EB%8D%B8.ipynb)
 -  *RandomForest, GradientBoosting, LGBM, XGBoosting + GridSearchCV를 통한 성능 최적화 및 시각화*
 
-#### 💳 [**신용카드 부정거래 탐지 모델링**](https://github.com/minsangggg/Machine_Running-Ai-/blob/main/%EB%B6%84%EB%A5%98%EC%98%88%EC%B8%A1%EB%AA%A8%EB%8D%B8/%EB%B6%84%EB%A5%98%EC%98%88%EC%B8%A1%EB%AA%A8%EB%8D%B8_%EC%8B%A0%EC%9A%A9%EC%B9%B4%EB%93%9C%20%EB%B6%80%EC%A0%95%EA%B1%B0%EB%9E%98.ipynb)
+#### 💳 [**신용카드 부정거래 탐지 분석 및 모델링**](https://github.com/minsangggg/Machine_Running-Ai-/blob/main/%EB%B6%84%EB%A5%98%EC%98%88%EC%B8%A1%EB%AA%A8%EB%8D%B8/%EB%B6%84%EB%A5%98%EC%98%88%EC%B8%A1%EB%AA%A8%EB%8D%B8_%EC%8B%A0%EC%9A%A9%EC%B9%B4%EB%93%9C%20%EB%B6%80%EC%A0%95%EA%B1%B0%EB%9E%98.ipynb)
 -  *EDA와 불균형 데이터 처리(SMOTE), 로지스틱 회귀, lgbm, 랜덤포레스트 기반 분류 모델 구축 + 성능평가(AUC, 혼동행렬)*
 
 #### 🔗 [**와인 이미지 기반 랭체인 프롬프트 엔지니어링**](https://github.com/minsangggg/Machine_Running-Ai-/blob/main/LLM/22.%EC%99%80%EC%9D%B8%EC%9D%B4%EB%AF%B8%EC%A7%80_%EB%9E%AD%EC%B2%B4%EC%9D%B8%ED%94%84%EB%A1%AC%ED%94%84%ED%8A%B8.ipynb)
