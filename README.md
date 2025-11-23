@@ -2,7 +2,7 @@
 ---
 ###  I'm Currently Working On...
 
-#### 🏘️ [**부동산 매물 분석 및 추천 서비스**](https://telkem.github.io/project_1st/)
+#### 🏘️ [**사용자 기반 레시피 추천 서비스**](https://telkem.github.io/project_1st/)
 - [ Figma 프로토타입](https://www.figma.com/proto/LvYOllXAS1JcqlT6f1ODB4/2%EC%B0%A8-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8-%ED%94%84%EB%A1%9C%ED%86%A0%ED%83%80%EC%9E%85?node-id=4-3&t=tRrX9b6JnWKh9wfv-0&scaling=scale-down&content-scaling=fixed&page-id=0%3A1&starting-point-node-id=4%3A3)
 -  *사용자 니즈 기반의 필터링 UI를 갖춘 프론트엔드 설계, 크롤링, DB적재, 서버개발(FastAPI,Playwright), LLM개발*
 
