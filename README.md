@@ -2,7 +2,7 @@
 
 #### 🏘️ [**[헬스케어] 의료정보 안내 및 추천 서비스**](https://github.com/minsangggg/Health_in_Your_Hands/)
 - [Next.js, React, TypeScript 웹/앱 서비스]([((https://github.com/minsangggg/Health_in_Your_Hands)))
--   병원·시술 정보를 비교하고 상담/견적을 쉽게 받는 의료 서비스 입니다.
+- 의료상담부터 병원·시술 비교까지 번거로운 과정을 간소화해 사용자가 가장 합리적인 선택을 하도록 돕는 의료 추천 서비스입니다.
 
 
 #### 🏘️ [**사용자 기반 레시피 추천 서비스**](https://github.com/minsangggg/Personalized_healthcare_Project/)
