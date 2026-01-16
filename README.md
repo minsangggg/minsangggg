@@ -1,5 +1,10 @@
 ##  프론트엔드, 백엔드부터 데이터 분석, 모델링, 시각화까지
 
+#### 🏘️ [**[헬스케어] 의료정보 안내 및 추천 서비스**](https://github.com/minsangggg/Personalized_healthcare_Project/)
+- [Next.js, React, TypeScript 웹/앱 서비스]([((https://github.com/minsangggg/Health_in_Your_Hands)))
+-   병원·시술 정보를 비교하고 상담/견적을 쉽게 받는 의료 서비스 입니다.
+
+
 #### 🏘️ [**사용자 기반 레시피 추천 서비스**](https://github.com/minsangggg/Personalized_healthcare_Project/)
 - [React를 이용한 웹/앱 서비스]([[https://www.figma.com/proto/LvYOllXAS1JcqlT6f1ODB4/2%EC%B0%A8-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8-%ED%94%84%EB%A1%9C%ED%86%A0%ED%83%80%EC%9E%85?node-id=4-3&t=tRrX9b6JnWKh9wfv-0&scaling=scale-down&content-scaling=fixed&page-id=0%3A1&starting-point-node-id=4%3A3](https://github.com/minsangggg/Personalized_healthcare_Project)](https://github.com/minsangggg/Personalized_healthcare_Project))
 -  *시간, 비용을 절약하기 위한 레시피 추천 서비스(프론트엔드,백엔드 설계, 크롤링, DB적재, 서버개발(FastAPI), LLM을 이용한 추천 서비스)*
