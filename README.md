@@ -1,6 +1,6 @@
 ##  프론트엔드, 백엔드부터 데이터 분석, 모델링, 시각화까지
 
-#### 🏘️ [**[헬스케어] 의료정보 안내 및 추천 서비스**](https://github.com/minsangggg/Personalized_healthcare_Project/)
+#### 🏘️ [**[헬스케어] 의료정보 안내 및 추천 서비스**](https://github.com/minsangggg/Health_in_Your_Hands/)
 - [Next.js, React, TypeScript 웹/앱 서비스]([((https://github.com/minsangggg/Health_in_Your_Hands)))
 -   병원·시술 정보를 비교하고 상담/견적을 쉽게 받는 의료 서비스 입니다.
 
