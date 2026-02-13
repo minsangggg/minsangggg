@@ -32,18 +32,13 @@
 
 ###  I’m Currently Studying...
 
-- Rag Pipeline 구축 
-- 벡터스토어를 이용한 임베딩 
-- Langchain(랭체인)
-- Pinecone
-- 분류 모델 평가 (정확도, 정밀도, 재현율, F1, ROC-AUC)
-- 분석 인사이트 도출 및 시각화 전략
-
----
-
-###  GitHub Stats
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=minsangggg&layout=compact&theme=default)
+- 개인 맞춤 레시피 추천 서비스(CookUS) 기능 고도화 (React + FastAPI + MariaDB)
+- LMS 핵심 기능 구조 학습 및 구현 정리 (수강, 진도, openAI를 통한 평가 + React + Spring boot + Tomcat)
+- 크롤링/ETL 자동화 및 데이터 적재 파이프라인 개선 (중복 제거, 안정성 강화)
+- Pinecone + OpenAI Embeddings 기반 RAG 추천 품질 개선
+- LangChain 기반 프롬프트/체인 구성 및 캐싱 구조 정리
+- Docker 기반 배포 환경 구성 및 AWS(EC2/Elastic IP/S3) 운영
+- Streamlit 대시보드로 지표 시각화 및 분석 인사이트 도출
 
 ---
 
@@ -52,7 +47,16 @@
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Spring%20Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+
+
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![scikit-learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
