@@ -1,4 +1,4 @@
-##  프론트엔드, 백엔드부터 데이터 분석, 모델링, 시각화까지
+##  프론트엔드, 백엔드를 포함한 웹/앱 개발부터 데이터 분석까지 프로젝트를 진행하고 있습니다.
 
 #### 🏘️ [**[헬스케어] 의료정보 안내 및 개인맞춤 추천 서비스**](https://github.com/minsangggg/Health_in_Your_Hands/)
 - [Next.js, React, TypeScript 웹/앱 서비스]([((https://github.com/minsangggg/Health_in_Your_Hands)))
