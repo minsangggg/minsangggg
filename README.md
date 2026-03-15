@@ -10,11 +10,12 @@
 -  *시간, 비용을 절약하기 위한 레시피 추천 서비스(프론트엔드,백엔드 설계, 크롤링, DB적재, 서버개발(FastAPI), LLM을 이용한 추천 서비스)*
 -  사용자 대시보드, 관리자 대시보드를 통한 데이터 분석가능
 
+#### 🧑‍💼 [**파일 확장자 차단**](https://github.com/minsangggg/File_Extension_Blocking)
+-  *파일 업로드 시 보안에 취약한 파일을 차단하도록 돕는 기능입니다.*
+  
+
 #### 🛍️ [**고객 구매 데이터 기반 성별 예측 분석 및 모델링**](https://github.com/minsangggg/hipython_rep/tree/main/%EB%B6%84%EB%A5%98%EC%98%88%EC%B8%A1%EB%AA%A8%EB%8D%B8_%EB%A8%B8%EC%8B%A0%EB%9F%AC%EB%8B%9D)
 -  *SQL JOIN을 통한 전처리, 로지스틱 회귀·랜덤포레스트 기반 분류 + 하이퍼파라미터 튜닝*
-
-#### 🧑‍💼 [**직원 퇴사 예측 분석 및 모델링**](https://github.com/minsangggg/Spark/blob/main/workspace/09_%EC%A7%81%EC%9B%90%20%ED%87%B4%EC%82%AC%20%EC%98%88%EC%B8%A1%20%EB%AA%A8%EB%8D%B8%20%EA%B5%AC%ED%98%84.ipynb)
--  *RandomForest, GBTClassifier를 사용하여 퇴사 여부를 예측하는 Spark 머신러닝 모델입니다.*
 
 #### 🚲 [**자전거 대여 수요 예측 분석 및 모델링**](https://github.com/minsangggg/Machine_Running-Ai-/blob/main/Study/15.%EC%9E%90%EC%A0%84%EA%B1%B0%EB%8C%80%EC%97%AC%EB%9F%89%20%EC%98%88%EC%B8%A1%EB%AA%A8%EB%8D%B8.ipynb)
 -  *RandomForest, GradientBoosting, LGBM, XGBoosting + GridSearchCV를 통한 성능 최적화 및 시각화*
