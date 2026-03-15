@@ -10,7 +10,7 @@
 -  *시간, 비용을 절약하기 위한 레시피 추천 서비스(프론트엔드,백엔드 설계, 크롤링, DB적재, 서버개발(FastAPI), LLM을 이용한 추천 서비스)*
 -  사용자 대시보드, 관리자 대시보드를 통한 데이터 분석가능
 
-#### 🧑‍💼 [**파일 확장자 차단**](https://github.com/minsangggg/File_Extension_Blocking)
+#### 🧑‍💼 [**파일 확장자 차단 기능**](https://github.com/minsangggg/File_Extension_Blocking)
 -  *파일 업로드 시 보안에 취약한 파일을 차단하도록 돕는 기능입니다.*
   
 
